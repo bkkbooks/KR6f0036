@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6f0036/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說太子和休經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T12/T12n0344.xml
+    old_id: T12n0344
+hash: sha256:4df7dfe123e06f29834a33cf60ae52156ae09b9c18d31deb622e2b691f187bfd
