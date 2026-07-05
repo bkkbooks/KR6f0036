@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6f0036_000.yaml, hash: 'sha256:4df7dfe123e06f29834a33cf60ae52156ae09b9c18d31deb622e2b691f187bfd'}
-  - {seq: 1, filename: KR6f0036_001.yaml, hash: 'sha256:9894280fba88b68e74a94e3f5e89dac725944137a36497eb0eac3a4503e61258'}
+  - {seq: 1, filename: KR6f0036_001.yaml, hash: 'sha256:a2c2dce7a4f23ed9dec1c491c1e58ff4e314846dd4ef99bf4eca8f8376682f0b'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6f0036_001.markers.yaml, hash: 'sha256:c1225fa7f88942f5d993390b3f462058b486d9b3e0b2734a8d19d7677df35847'}
+  - {seq: 0, role: markers, filename: assets/KR6f0036_000.markers.yaml, hash: 'sha256:2e0af2ae02833588e6ceb2858b595a52f0dffba4a7103ea266277daf9b3c0c80'}
+  - {seq: 1, role: markers, filename: assets/KR6f0036_001.markers.yaml, hash: 'sha256:88cb27eb12757a7fc57dee0748cf46fab71e4995e8a1acc74b8d8512f1a7091e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,7 +49,4 @@ table_of_contents:
   label: 佛說太子和休經一卷
   type: juan
   level: 1
-hash: sha256:1ee31081fc19b3cc569e5a23c04111a913812b77225301fb17c8dc8f9779ded1
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:e9efeb668a13480ab5b7846ddb53cb4d4584adc7459fa1870f51d7ca06067d5f
