@@ -36,7 +36,7 @@ assets:
   - {seq: 0, filename: KR6f0036_000.yaml, hash: 'sha256:4df7dfe123e06f29834a33cf60ae52156ae09b9c18d31deb622e2b691f187bfd'}
   - {seq: 1, filename: KR6f0036_001.yaml, hash: 'sha256:58e0d7ceb41b672780d8a99c3786837eeeb240a88b477893de4185a61a6c3033'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6f0036_000.markers.yaml, hash: 'sha256:2e0af2ae02833588e6ceb2858b595a52f0dffba4a7103ea266277daf9b3c0c80'}
+  - {seq: 0, role: markers, filename: assets/KR6f0036_000.markers.yaml, hash: 'sha256:87e56fdec752f54bd28a7f1b108e33461785da90ea04f2c762495a5b63e6c27e'}
   - {seq: 1, role: markers, filename: assets/KR6f0036_001.markers.yaml, hash: 'sha256:e06d25e51f152aa9094461a35fd83f536fb2140617b13c510190f2653439e18e'}
 table_of_contents:
 - ref:
@@ -49,7 +49,7 @@ table_of_contents:
   label: 佛說太子和休經一卷
   type: juan
   level: 1
-hash: sha256:83d1caa7d7bd41c73af578fde3a806dd5b33609a62a6fab55051615305278a1f
+hash: sha256:21f33863b470a7df32382e9474ef2ede3eaaafbdf533a80e5428216751663bbf
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
